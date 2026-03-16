@@ -10,7 +10,7 @@ from sklearn.decomposition import PCA
 # CONFIGURATION DE LA PAGE 
 st.set_page_config(
     page_title="Dashboard d’aide à la décision environnementale",
-    page_icon="🏙️",
+    page_icon="🌍",
     layout="wide",
     initial_sidebar_state="expanded"
 )
